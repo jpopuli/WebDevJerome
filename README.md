@@ -14,6 +14,3 @@
 - Postman
 
 ### Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-JeromeDev-blue)](link here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JeromeDev-blue)](link here)
