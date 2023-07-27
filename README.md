@@ -1,9 +1,9 @@
 ### Skills
 
-- Front-end Development: HTML, CSS, JavaScript
-- Back-end Development: Node.js, Express.js
-- Database: MongoDB
-- Frameworks: React, Bootstrap
+- Front-end Development: HTML, CSS, JavaScript, jQuery
+- Back-end Development: PHP
+- Database: MySQL
+- Frameworks: Bootstrap
 - Version Control: Git
 
 ### Tools
@@ -11,8 +11,9 @@
 - VSCode
 - Git
 - GitHub
+- Postman
 
 ### Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-JeromeDev-blue)](https://github.com/JeromeDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JeromeDev-blue)](https://www.linkedin.com/in/jeromedev/)
+[![GitHub](https://img.shields.io/badge/GitHub-JeromeDev-blue)](link here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JeromeDev-blue)](link here)
